@@ -1,3 +1,3 @@
 # Podcast
 
-API for podcast client
+API for podcast api
